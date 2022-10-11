@@ -1,0 +1,53 @@
+* {
+    background-color: #FFF5E4;
+    font-family: 'Quicksand';
+    
+}
+
+nav {
+    top: 100px;
+}
+
+ul {
+    text-align: center;
+    
+    
+}
+
+li {
+    font-family: 'Quicksand';
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    
+    margin: 30px;
+    border-radius: 15px;
+    
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+a:hover {
+    letter-spacing: 2px;
+    transition: 0.5s;
+}
+
+
+
+
+main {
+    justify-content: center;
+}
+
+div {
+    
+    justify-content: center;
+}
+
+
